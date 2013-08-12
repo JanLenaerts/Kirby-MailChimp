@@ -30,6 +30,8 @@ Create a template with the following code.
 
 ###Step 2: subscribe.php
 
+Create a second template with the following code.
+
       	<?php
       	    $apiKey = 'YOUR-API-KEY';
       	    $listId = 'YOUR-LIST-ID';
