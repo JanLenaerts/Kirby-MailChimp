@@ -119,4 +119,6 @@ For this you need the jquery library. Add this script to functions.js for exampl
 
 That's it, of course you can modify it towards your needs. I haven't added any validation, Mailchimp takes care of this. 
 
-You can view the code live (link:http://janlenaerts.me/newsletter text:here title: Jan Lenaerts Newsletter popup:yes) and if you want subscribe to my newsletter.
+You can view the code live [here](http://janlenaerts.me/newsletter "Jan Lenaerts Newsletter"), and if you want you can subscribe
+to my newsletter there.
+
